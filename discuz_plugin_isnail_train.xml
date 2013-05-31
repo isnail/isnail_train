@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X3]]></item>
+	<item id="Time"><![CDATA[2013-05-28 23:34]]></item>
+	<item id="From"><![CDATA[Discuz! Board (http://localhost/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[iSnail Train]]></item>
+			<item id="identifier"><![CDATA[isnail_train]]></item>
+			<item id="description"><![CDATA[]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[isnail_train/]]></item>
+			<item id="copyright"><![CDATA[isnail.info]]></item>
+			<item id="version"><![CDATA[1.0]]></item>
+			<item id="__modules">
+				<item id="0">
+					<item id="name"><![CDATA[isnail_train]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[11]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="version"><![CDATA[X3]]></item>
+		<item id="var">
+			<item id="0">
+				<item id="displayorder"><![CDATA[1]]></item>
+				<item id="title"><![CDATA[ÅäÖÃ²ÎÊý]]></item>
+				<item id="description"><![CDATA[¸ñÊ½£º
+"Ä£¿é1Ãû³Æ|-|Í¼Æ¬1µØÖ·|||Í¼Æ¬1Á´½Ó|||Í¼Æ¬1ËµÃ÷ÎÄ×Ö|-|-|Ä£¿é2Ãû³Æ|-|Í¼Æ¬3µØÖ·|||Í¼Æ¬3Á´½Ó|||Í¼Æ¬3ËµÃ÷ÎÄ×Ö"
+ÒÔ´ËÀàÍÆ£¬Í¼Æ¬½¨ÒéÊ¹ÓÃ130ÏñËØ*130ÏñËØµÄÍ¼Æ¬]]></item>
+				<item id="variable"><![CDATA[data_vars]]></item>
+				<item id="type"><![CDATA[textarea]]></item>
+				<item id="value"><![CDATA[Mac
+	|-|
+	source/plugin/isnail_train/images/macbookair.jpg|||http://isnail.info|||MacBook Air
+	|--|
+	source/plugin/isnail_train/images/macbookpro.jpg|||http://isnail.info|||MacBook Pro
+	|--|
+	source/plugin/isnail_train/images/macmini.jpg|||http://isnail.info|||Mac mini
+	|--|
+	source/plugin/isnail_train/images/imac.jpg|||http://isnail.info|||iMac
+	|--|
+	source/plugin/isnail_train/images/macpro.jpg|||http://isnail.info|||Mac Pro
+	|--|
+	source/plugin/isnail_train/images/macosx_mountainlion.jpg|||http://isnail.info|||OS X Mountain Lion
+|-|-|
+Soft
+	|-|
+	source/plugin/isnail_train/images/ilife.jpg|||http://isnail.info|||iLife
+	|--|
+	source/plugin/isnail_train/images/iwork.jpg|||http://isnail.info|||iWork
+	|--|
+	source/plugin/isnail_train/images/safari.jpg|||http://isnail.info|||Safari
+	|--|
+	source/plugin/isnail_train/images/aperture.jpg|||http://isnail.info|||Aperture
+	|--|
+	source/plugin/isnail_train/images/final_cut_pro.jpg|||http://isnail.info|||Final Cut Pro
+	|--|
+	source/plugin/isnail_train/images/logic_pro.jpg|||http://isnail.info|||Logic Pro
+|-|-|
+Addon
+	|-|
+	source/plugin/isnail_train/images/keyboard.jpg|||http://isnail.info|||Apple Wireless Keyboard
+	|--|
+	source/plugin/isnail_train/images/magicmouse.jpg|||http://isnail.info|||Magic Mouse
+	|--|
+	source/plugin/isnail_train/images/magictrackpad.jpg|||http://isnail.info|||Magic Trackpad
+	|--|
+	source/plugin/isnail_train/images/display.jpg|||http://isnail.info|||LED Cinema Display
+	|--|
+	source/plugin/isnail_train/images/airportexpress.jpg|||http://isnail.info|||AirPort Express
+	|--|
+	source/plugin/isnail_train/images/airportextreme.jpg|||http://isnail.info|||AirPort Extreme
+	|--|
+	source/plugin/isnail_train/images/timecapsule.jpg|||http://isnail.info|||Time Capsule
+|-|-|
+Server
+	|-|
+	source/plugin/isnail_train/images/macosx_server.jpg|||http://isnail.info|||OS X Server
+	|--|
+	source/plugin/isnail_train/images/macpro_server.jpg|||http://isnail.info|||Mac Pro with OS X Server
+	|--|
+	source/plugin/isnail_train/images/apple_remote_desktop.jpg|||http://isnail.info|||Apple Remote Desktop
+	|--|
+	source/plugin/isnail_train/images/macmini_server.jpg|||http://isnail.info|||Mac mini with OS X Server
+	]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="1">
+				<item id="displayorder"><![CDATA[2]]></item>
+				<item id="title"><![CDATA[ÏÔÊ¾·¶Î§]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[where_vars]]></item>
+				<item id="type"><![CDATA[selects]]></item>
+				<item id="extra"><![CDATA[portal=ÃÅ»§
+forum=ÂÛÌ³
+group=Èº×é
+home=¼ÒÔ°]]></item>
+				<item id="__value">
+					<item id="0"><![CDATA[portal]]></item>
+					<item id="1"><![CDATA[forum]]></item>
+				</item>
+			</item>
+			<item id="2">
+				<item id="displayorder"><![CDATA[3]]></item>
+				<item id="title"><![CDATA[Á´½ÓÔÚÐÂ´°¿Ú´ò¿ª]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[target_vars]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+		</item>
+	</item>
+</root>

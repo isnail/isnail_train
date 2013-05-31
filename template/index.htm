@@ -1,0 +1,41 @@
+<!--{block return}-->
+		<div id="isnail-train-main" data-hires="true">
+			<div class="productbrowser content" id="pb-isnail">
+				<div class="pb-slider">
+					<div class="pb-slide">
+						<!--{loop $isnail_slider $slider_item}-->
+						<ul class="ul-slider">
+							<!--{loop $slider_item[1] $slider_value}-->
+							<li class="pb-macbookair">
+								<a href="$slider_value[1]" <!--{if $isnail_vars[target_vars]}-->target="_blank"<!--{else}-->target="_self"<!--{/if}-->>
+								<div>
+									<div><img src="$slider_value[0]" alt="$slider_value[2]" />
+									</div>
+								</div>$slider_value[2]</a>
+							</li>
+							<!--{/loop}-->
+						</ul>
+						<!--{/loop}-->
+						
+					</div>
+				</div>
+
+				<div class="pb-pageindicator roundedbottom" id="pb-pi-isnail">
+					<div>
+						<b class="caret"></b>
+						<!--{loop $isnail_slider $slider_item}-->
+						<a class="page">$slider_item[0]</a>
+						<!--{/loop}-->
+					</div>
+				</div>
+			</div>
+			<script src="source/plugin/isnail_train/js/prototype.js" type="text/javascript" charset="utf-8"></script>
+			<script src="source/plugin/isnail_train/js/scriptaculous.js" type="text/javascript" charset="utf-8"></script>
+			<script src="source/plugin/isnail_train/js/browserdetect.js" type="text/javascript" charset="utf-8"></script>
+			<script src="source/plugin/isnail_train/js/core.js" type="text/javascript" charset="utf-8"></script>
+			<link rel="stylesheet" href="source/plugin/isnail_train/css/isnail_base.css" type="text/css" />
+			<link rel="stylesheet" href="source/plugin/isnail_train/css/productbrowser.css" type="text/css" />
+			<script src="source/plugin/isnail_train/js/productbrowser.js" type="text/javascript" charset="utf-8"></script>
+			<script src="source/plugin/isnail_train/js/pagingview.js" type="text/javascript" charset="utf-8"></script>
+			<script src="source/plugin/isnail_train/js/reveal.js" type="text/javascript" charset="utf-8"></script>
+<!--{/block}-->
